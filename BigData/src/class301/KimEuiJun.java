@@ -8,5 +8,10 @@ public class KimEuiJun implements Print {
 		System.out.println("되는건가 !");
 		System.out.println("나도 하고싶다.");
 	}
+	
+	private void aaa() {
+		System.out.println("냉무");
+	}
+	
 
 }
