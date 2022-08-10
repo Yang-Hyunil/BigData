@@ -12,7 +12,7 @@ public class Hj implements Print {
 		
 		System.out.println(a);
 		
-		
+		sc.close();
 	}
 
 	
