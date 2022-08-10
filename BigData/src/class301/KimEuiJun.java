@@ -2,6 +2,8 @@ package class301;
 
 public class KimEuiJun implements Print {
 
+	int a;
+	
 	@Override
 	public void print() {
 		// TODO Auto-generated method stub
