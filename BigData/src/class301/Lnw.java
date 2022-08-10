@@ -8,6 +8,7 @@ public class Lnw implements Print {
 		System.out.println("신기합니다.");
 
 		System.out.println("왜 내꺼 안 올라가!");
+		System.out.println("얍얍얍~");
 	}
 
 }
