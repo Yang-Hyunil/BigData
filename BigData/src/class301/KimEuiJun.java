@@ -12,7 +12,7 @@ public class KimEuiJun implements Print {
 	}
 	
 	private void aaa() {
-		System.out.println("냉무");
+		System.out.println("양현일");
 	}
 	
 
