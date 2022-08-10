@@ -2,7 +2,7 @@ package class301;
 
 public class KimEuiJun implements Print {
 
-	int a;
+	int a ;
 	
 	@Override
 	public void print() {
