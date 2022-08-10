@@ -11,7 +11,7 @@ public class Hj implements Print {
 		String	a= "어쩔티비...";
 		String	b= "저쩔티비...";
 		
-		System.out.println(a+b);
+		System.out.println(a+b+b);
 		
 		sc.close();
 	}
