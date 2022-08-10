@@ -1,6 +1,6 @@
 package class301;
 
-public class Lnw implements Print {
+public class Lnu implements Print {
 
 	@Override
 	public void print() {
