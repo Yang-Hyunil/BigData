@@ -8,9 +8,10 @@ public class Hj implements Print {
 	public void print() {
 		Scanner sc=new Scanner(System.in); 
 		System.out.println("무엇을 하는 걸까요");
-	String	a= "어쩔티비...";
+		String	a= "어쩔티비...";
+		String	b= "저쩔티비...";
 		
-		System.out.println(a);
+		System.out.println(a+b);
 		
 		sc.close();
 	}
